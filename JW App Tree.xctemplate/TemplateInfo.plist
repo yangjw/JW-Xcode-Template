@@ -5,7 +5,7 @@
 	<key>Kind</key>
 	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
 	<key>Name</key>
-	<string>JW Application</string>
+	<string>JW Base App Tree</string>
 	<key>Description</key>
 	<string>This template provides a starting point for an application that uses a single view. It provides a view controller to manage the view, and a storyboard or nib file that contains the view.</string>
 	<key>Concrete</key>
@@ -106,12 +106,13 @@
 		<dict>
 			<key>Path</key>
 			<string>General/Macro/APINet.h</string>
-			<key>Group</key>
-			<array>
-				<string>Macro</string>
-			</array>
 			<key>TargetIndices</key>
 			<array/>
+			<key>Group</key>
+			<array>
+				<string>General</string>
+				<string>Macro</string>
+			</array>
 		</dict>
 		<key>General/Macro/AppMacros.h</key>
 		<dict>
@@ -121,6 +122,7 @@
 			<string>General/Macro/AppMacros.h</string>
 			<key>Group</key>
 			<array>
+				<string>General</string>
 				<string>Macro</string>
 			</array>
 		</dict>
@@ -132,6 +134,7 @@
 			<string>General/Macro/VendorMacro.h</string>
 			<key>Group</key>
 			<array>
+				<string>General</string>
 				<string>Macro</string>
 			</array>
 		</dict>

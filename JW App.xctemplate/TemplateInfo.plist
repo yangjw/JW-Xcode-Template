@@ -411,12 +411,13 @@
 		<dict>
 			<key>Path</key>
 			<string>General/Macro/APINet.h</string>
-			<key>Group</key>
-			<array>
-				<string>Macro</string>
-			</array>
 			<key>TargetIndices</key>
 			<array/>
+			<key>Group</key>
+			<array>
+				<string>General</string>
+				<string>Macro</string>
+			</array>
 		</dict>
 		<key>General/Macro/AppMacros.h</key>
 		<dict>
@@ -426,6 +427,7 @@
 			<string>General/Macro/AppMacros.h</string>
 			<key>Group</key>
 			<array>
+				<string>General</string>
 				<string>Macro</string>
 			</array>
 		</dict>
@@ -437,6 +439,7 @@
 			<string>General/Macro/VendorMacro.h</string>
 			<key>Group</key>
 			<array>
+				<string>General</string>
 				<string>Macro</string>
 			</array>
 		</dict>
