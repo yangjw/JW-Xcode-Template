@@ -11,7 +11,8 @@
 # Cocoapods 
 ## 模板中默认添加了 ```Podfile ```,里面有些常用的第三方库，在启动工程之前使用命令```pod install```。如果你没有使用过```Cocopods```,可以参考[Cocopods](https://cocoapods.org/)
 
-模板有三种
+# 模板有三种
+
 1. ```JW App.xctemplate```一个完整的配置，没有使用父类结构
 
 2. ```JW Base.xctemplate```创建了一个父类结构
