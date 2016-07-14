@@ -13,12 +13,13 @@
 
 模板有三种
 1.```JW App.xctemplate```一个完整的配置，没有使用父类结构
-![目录](https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/1.png)
 2.```JW Base.xctemplate```创建了一个父类结构
 3.```JW Application.xctemplate```使用了```JW Base.xctemplate``父类结构
 
-## 自行添加Bundle identifier
 
+![目录](https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/1.png)
+
+## 自行添加Bundle identifier
 ![identifier]https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/2.png
 
 
