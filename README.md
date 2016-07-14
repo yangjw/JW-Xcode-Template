@@ -18,6 +18,7 @@
 3.```JW Application.xctemplate```使用了```JW Base.xctemplate``父类结构
 
 ## 自行添加Bundle identifier
+
 ![identifier]https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/2.png
 
 
