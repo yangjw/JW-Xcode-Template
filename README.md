@@ -23,8 +23,6 @@
 ![目录](https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/1.png)
 
 ## 自行添加Bundle identifier
-![identifier]https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/2.png
-
-
+![identifier](https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/2.png)
 ![TemplateInfo](https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/3.png)
 ![TemplateInfo](https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/4.png)
