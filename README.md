@@ -26,3 +26,14 @@
 ![identifier](https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/2.png)
 ![TemplateInfo](https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/3.png)
 ![TemplateInfo](https://github.com/yangjw/JW-Xcode-Template/blob/master/Images/4.png)
+
+##Creating New project
+1. 选择模板 ```JW App.xctemplate```、 ```JW Base.xctemplate```或者 ```JW Application.xctemplate```。
+2. 输入"Product Name" 和 "Organization Name".
+3. 工程创建后设置```Bundle identifier``
+
+##Images.xcassets Storyboard 
+1. 当您创建的应用程序使用模板,带有Images.xcassets和Storyboard(Main、LaunchScreen.storyboard)
+
+
+
