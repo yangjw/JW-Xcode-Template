@@ -398,39 +398,6 @@
 			<key>Group</key>
 			<array/>
 		</dict>
-		<key>Macro/APINet.h</key>
-		<dict>
-			<key>Group</key>
-			<array>
-				<string>Macro</string>
-			</array>
-			<key>Path</key>
-			<string>Macro/APINet.h</string>
-			<key>TargetIndices</key>
-			<array/>
-		</dict>
-		<key>Macro/AppMacros.h</key>
-		<dict>
-			<key>Group</key>
-			<array>
-				<string>Macro</string>
-			</array>
-			<key>TargetIndices</key>
-			<array/>
-			<key>Path</key>
-			<string>Macro/AppMacros.h</string>
-		</dict>
-		<key>Macro/VendorMacro.h</key>
-		<dict>
-			<key>Group</key>
-			<array>
-				<string>Macro</string>
-			</array>
-			<key>TargetIndices</key>
-			<array/>
-			<key>Path</key>
-			<string>Macro/VendorMacro.h</string>
-		</dict>
 	</dict>
 	<key>Nodes</key>
 	<array>
@@ -452,9 +419,6 @@
 		<string>General/Classes/</string>
 		<string>General/Categories/</string>
 		<string>General/Protocols/</string>
-		<string>Macro/APINet.h</string>
-		<string>Macro/AppMacros.h</string>
-		<string>Macro/VendorMacro.h</string>
 	</array>
 	<key>Identifier</key>
 	<string>com.apple.dt.unit.JWApp</string>
