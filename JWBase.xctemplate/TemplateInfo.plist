@@ -320,6 +320,7 @@
 	</dict>
 	<key>Nodes</key>
 	<array>
+		<string>Resouces/</string>
 		<string>../Podfile</string>
 		<string>AppDelegate/AppDelegate.h</string>
 		<string>AppDelegate/AppDelegate.m</string>
